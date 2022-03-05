@@ -1,4 +1,4 @@
-# ArraySnail
+**Complete the snail in the array**
 
 The purpose of the program
 
