@@ -1,6 +1,6 @@
 # ArraySnail
 
-Programın amaçı
+Programın amacı
 
 ![](ArraySnail/Adsız.jpg)
 
