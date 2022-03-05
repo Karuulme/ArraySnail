@@ -1,9 +1,9 @@
 # ArraySnail
 
-Programın amacı
+The purpose of the program
 
 ![](ArraySnail/Adsız.jpg)
 
-Dilerseniz Numaralandırabilirsiniz.
+You can enumerate if you wish.
 
 
